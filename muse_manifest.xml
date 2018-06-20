@@ -1,0 +1,119 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="makeAds.ml" resolutions="1x" timestamp="1529412926720">
+  <folder name="css">
+    <file name="site_global.css" crc="226455819"/>
+    <file name="index.css" crc="162331889" ref="index"/>
+    <file name="nomq_index.css" crc="42636696" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="consumer-society-386661-u349-fr.png" crc="534031532" ref="index"/>
+    <file name="u927-7.png" crc="381627152" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u938.png" crc="39774399" ref="index"/>
+    <file name="u938-r.png" crc="39774399" ref="index"/>
+    <file name="u5714-7.png" crc="4184612892" ref="index"/>
+    <file name="makesds logo-u5543.png" crc="3914372676" ref="index"/>
+    <file name="share (1).png" crc="3828560904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube (1).png" crc="529984360" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="televisions.png" crc="19439870" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin-icon-u7067.png" crc="4179325465" ref="index"/>
+    <file name="logo-u7009.png" crc="246861114" ref="index"/>
+    <file name="metroui-youtube-icon-u7041.png" crc="240969572" ref="index"/>
+    <file name="contemporary-flash-indoors-134469-u710-fr.png" crc="3911527871" ref="index"/>
+    <file name="clapperboard.png" crc="438007692" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="film-reel-u6300.png" crc="292381384" ref="index"/>
+    <file name="factory.png" crc="33946884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="camera-u6228.png" crc="4281325716" ref="index"/>
+    <file name="person-explaining-data.png" crc="4150630475" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="film-u6284.png" crc="371700657" ref="index"/>
+    <file name="consumer-society-386661-u349-fr2.png" crc="336278791" ref="index"/>
+    <file name="u927-72.png" crc="381627152" ref="index"/>
+    <file name="u9382.png" crc="39774399" ref="index"/>
+    <file name="u938-r2.png" crc="39774399" ref="index"/>
+    <file name="makesds logo-u55432.png" crc="357986009" ref="index"/>
+    <file name="u5714-72.png" crc="4225588487" ref="index"/>
+    <file name="film-u62842.png" crc="4210392223" ref="index"/>
+    <file name="camera-u62282.png" crc="386106507" ref="index"/>
+    <file name="film-reel-u63002.png" crc="531763614" ref="index"/>
+    <file name="share (1)-crop-u585.png" crc="4035526914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="share (1)-crop-u6069.png" crc="424876831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin-icon-u70672.png" crc="229721209" ref="index"/>
+    <file name="logo-u70092.png" crc="3990308903" ref="index"/>
+    <file name="metroui-youtube-icon-u70412.png" crc="408148283" ref="index"/>
+    <file name="contemporary-flash-indoors-134469-u710-fr2.png" crc="4201841560" ref="index"/>
+    <file name="consumer-society-386661-u349-fr3.png" crc="3917922357" ref="index"/>
+    <file name="u927-73.png" crc="381627152" ref="index"/>
+    <file name="u9383.png" crc="39774399" ref="index"/>
+    <file name="u938-r3.png" crc="39774399" ref="index"/>
+    <file name="makesds logo-u55433.png" crc="3885826661" ref="index"/>
+    <file name="u5714-73.png" crc="3771870808" ref="index"/>
+    <file name="film-reel-u63003.png" crc="3857929454" ref="index"/>
+    <file name="camera-u62283.png" crc="163064018" ref="index"/>
+    <file name="film-u62843.png" crc="255812311" ref="index"/>
+    <file name="contemporary-flash-indoors-134469-u710-fr3.png" crc="451164577" ref="index"/>
+    <file name="linkedin-icon-u70673.png" crc="26247586" ref="index"/>
+    <file name="logo-u70093.png" crc="180378746" ref="index"/>
+    <file name="metroui-youtube-icon-u70413.png" crc="4019121274" ref="index"/>
+    <file name="film-reel-u63004.png" crc="462818134" ref="index"/>
+    <file name="camera-u62284.png" crc="4264984226" ref="index"/>
+    <file name="film-u62844.png" crc="3969188889" ref="index"/>
+    <file name="u6896-8.png" crc="4010502811" ref="index"/>
+    <file name="u6903-8.png" crc="535225885" ref="index"/>
+    <file name="u6919-7.png" crc="251301530" ref="index"/>
+    <file name="makesds logo-u55434.png" crc="4055898328" ref="index"/>
+    <file name="contemporary-flash-indoors-134469-u710-fr4.png" crc="4215764048" ref="index"/>
+    <file name="linkedin-icon-u70674.png" crc="413744669" ref="index"/>
+    <file name="logo-u70094.png" crc="73607719" ref="index"/>
+    <file name="metroui-youtube-icon-u70414.png" crc="70629494" ref="index"/>
+  </folder>
+  <file name="index.html" crc="254892433" seo="true" mt="1529412193471" redirect="true"/>
+</manifest>
